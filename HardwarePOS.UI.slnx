@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/HardwarePOS.Database/" />
+  <Project Path="HardwarePOS.Business/HardwarePOS.Business.csproj" />
+  <Project Path="HardwarePOS.Data/HardwarePOS.Data.csproj" />
+  <Project Path="HardwarePOS.Models/HardwarePOS.Models.csproj" />
+  <Project Path="HardwarePOS.Shared/HardwarePOS.Shared.csproj" />
+  <Project Path="HardwarePOS.UI/HardwarePOS.UI.csproj" />
+</Solution>
